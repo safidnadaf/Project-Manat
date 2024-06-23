@@ -1,0 +1,64 @@
+body {
+    background-image: url('coffee.jpg');
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.menu {
+    background-color: rgba(207, 226, 207, 0.9);
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #351c0a;
+}
+
+h1 {
+    font-size: 20px;
+    margin: 0;
+}
+
+.est {
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-style: italic;
+    font-size: 20px;
+    border-bottom: 1px solid #8B4513;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    font-style: italic;
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+.price {
+    
+    float: right;
+}
+
+.visit {
+    margin-top: 20px;
+}
+
+.code {
+    font-size: 12px;
+    color: #8B4513;
+}
